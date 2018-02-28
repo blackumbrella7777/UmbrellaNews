@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="datumbox-framework-develop">
+    <CLASSES />
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/datumbox-framework-develop/datumbox-framework-applications/src/main/java" />
+      <root url="file://$PROJECT_DIR$/datumbox-framework-develop/datumbox-framework-applications/src/test/java" />
+      <root url="file://$PROJECT_DIR$/datumbox-framework-develop/datumbox-framework-common/src/main/java" />
+      <root url="file://$PROJECT_DIR$/datumbox-framework-develop/datumbox-framework-core/src/main/java" />
+      <root url="file://$PROJECT_DIR$/datumbox-framework-develop/datumbox-framework-core/src/test/java" />
+      <root url="file://$PROJECT_DIR$/datumbox-framework-develop/datumbox-framework-lib/src/main/java" />
+      <root url="file://$PROJECT_DIR$/datumbox-framework-develop/datumbox-framework-storage/datumbox-framework-storage-inmemory/src/main/java" />
+      <root url="file://$PROJECT_DIR$/datumbox-framework-develop/datumbox-framework-storage/datumbox-framework-storage-mapdb/src/main/java" />
+      <root url="file://$PROJECT_DIR$/datumbox-framework-develop/datumbox-framework-tests/src/main/java" />
+    </SOURCES>
+  </library>
+</component>
